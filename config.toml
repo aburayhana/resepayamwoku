@@ -1,0 +1,4 @@
+baseURL = "https://resepayamwoku.vercel.app"
+languageCode = "en-us"
+title = "Resep AyamWoku"
+theme = "z"
